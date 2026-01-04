@@ -1,6 +1,6 @@
 # RAG AI Agent
 
-This project is based on the https://www.youtube.com/watch?v=AUQJ9eeP-Ls .
+This project is based on the https://www.youtube.com/watch?v=AUQJ9eeP-Ls . This repository is created for self learning.
 
 What RAG does here?
 
