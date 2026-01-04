@@ -2,6 +2,10 @@
 
 This project is based on the https://www.youtube.com/watch?v=AUQJ9eeP-Ls .
 
+What RAG does here?
+
+In this context, RAG enhances the LLM’s responses by incorporating relevant information from a knowledge base, rather than depending only on the model’s pre-trained knowledge.
+
 #### Tech Stack  
 
 1. Python
@@ -44,6 +48,7 @@ uv is a package manager and we can use the above command to initialize the proje
     `uv add fastapi inngest llama-index-core llama-index-readers-file python-dotenv qdrant-client uvicorn streamlit openai`
 
 5. As we are using an Open AI model we need to create a key in the https://platform.openai.com/
+6. Create a .env file in the project and specify the api key in that file.
 
 
    
