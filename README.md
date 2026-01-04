@@ -49,6 +49,11 @@ uv is a package manager and we can use the above command to initialize the proje
 
 5. As we are using an Open AI model we need to create a key in the https://platform.openai.com/
 6. Create a .env file in the project and specify the api key in that file.
+7. Refer the code.
+
+#### Docker Command
+   `docker run -d --name qdrant -p 6333:6333 -v ~/qdrant_storage:/qdrant/storage qdrant/qdrant`
+
 
 
    
